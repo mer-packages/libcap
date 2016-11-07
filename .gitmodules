@@ -1,3 +1,0 @@
-[submodule "libcap"]
-	path = libcap
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/morgan/libcap.git
